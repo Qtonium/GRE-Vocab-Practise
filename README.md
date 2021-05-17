@@ -6,14 +6,15 @@
 <p><b>V</b><u>1.0</u></p>
 <p>- First release</p>
 <p><b>V</b><u>1.1</u></p>
-<p> - Colors grading added</p>
-<p> - able to see meaning of word now</p>
-<p> - Total word left indicator added</p>
+<p>- Colors grading added</p>
+<p>- Able to see meaning of word now</p>
+<p>- Total word left indicator added</p>
+<p>- Able to select multiple books</p>
 
 <h3>Usage</h3>
 <p>1. Anaconda must be installed in your system as pandas is required.</p>
 <p>2. open terminal as base or you can use any IDE which supports conda enviroment.</p>
-<img src = "https://github.com/Qtonium/GRE-Vocab-Practise/blob/main/pic/pic1.png" width ="600" height = "500" >
+<img src = "https://github.com/Qtonium/GRE-Vocab-Practise/blob/main/pic/V1.0/pic1.png" width ="600" height = "500" >
 <p>3. browse the directory where you cloned this project in your terminal and type <i>"python3 main.py".</i></p>
 <p>4. first time you open this you will get "Enter Total Books." Write total number of books you want to learn note: if you want to add new word in your list only add in column named as 'O' and 'P' as shown given below.</p>
 <p><img src = "https://github.com/Qtonium/GRE-Vocab-Practise/blob/main/pic/V1.1/Screenshot%202021-05-17%20at%2011.14.28%20AM%202.png" width ="800" height = "500" margin = "100" style="margin-left:30px"></p>
